@@ -101,7 +101,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://54.84.23.131:8081/repository/paypal-snapshots/</url>
+	      <url>http://54.84.23.131:8081/repository/snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
